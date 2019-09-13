@@ -12,6 +12,7 @@ Angular Code Challenge
 ### Setup
 
 ```bash
+npm install -g ionic angular-cli
 npm install
 ionic serve --prod
 ```
