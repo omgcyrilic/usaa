@@ -1,4 +1,15 @@
-.welcome-card img {
-  max-height: 35vh;
-  overflow: hidden;
+.searchbar {
+  padding: 0 10px;
+}
+.content {
+  position: relative;
+  top: 15px;
+}
+.text {
+  padding: 20px 0;
+}
+.no-results {
+  padding: 0 15px;
+  position: relative;
+  top: 20px;
 }
